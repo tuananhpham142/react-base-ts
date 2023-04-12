@@ -1,0 +1,10 @@
+{
+  "required": "{{field}} is required",
+  "charAndNumber": "{{field}} only accept a-z, A-Z, 0-9 and without space",
+  "phone": "Phone number is invalid",
+  "email": "Email address is invalid",
+  "minLength": "{{field}} should more than {{length}} characters",
+  "maxLength": "{{field}} can not be more than {{length}} characters",
+  "equalLength": "{{field}} must be {{length}} characters",
+  "terms": "You must accept the terms and conditions"
+}

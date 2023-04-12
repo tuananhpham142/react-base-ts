@@ -1,0 +1,12 @@
+{
+  "action": "Hành động",
+  "button": {
+    "save": "Lưu",
+    "update": "Cập nhật",
+    "cancel": "Hủy bỏ",
+    "apply": "Áp dụng",
+    "delete": "Xóa",
+    "confirm": "Xác nhận",
+    "search": "Tìm kiếm"
+  }
+}

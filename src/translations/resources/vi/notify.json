@@ -1,0 +1,5 @@
+{
+  "title": "Welcome to $t(common:appName.full)",
+  "success": "Thành công!",
+  "error": "Có lỗi xảy ra!"
+}

@@ -1,0 +1,12 @@
+{
+  "action": "Action",
+  "button": {
+    "save": "Save",
+    "update": "Update",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "search": "Search"
+  }
+}

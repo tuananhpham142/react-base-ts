@@ -1,0 +1,5 @@
+{
+  "title": "Welcome to $t(common:appName.full)",
+  "success": "Success!",
+  "error": "Error!"
+}

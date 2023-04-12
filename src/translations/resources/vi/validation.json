@@ -1,0 +1,10 @@
+{
+  "required": "{{field}} không được bỏ trống",
+  "charAndNumber": "{{field}} chỉ chấp nhận các ký tự a-z, A-Z, 0-9",
+  "phone": "Số điện thoại không hợp lệ",
+  "email": "Địa chỉ email không hợp lệ",
+  "minLength": "{{field}} phải có nhiều hơn {{length}} ký tự",
+  "maxLength": "{{field}} không được vượt quá {{length}} ký tự",
+  "equalLength": "{{field}} phải là {{length}} ký tự",
+  "terms": "Bạn phải đồng ý với Điều khoản và Điều kiện"
+}
